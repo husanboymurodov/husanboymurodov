@@ -26,53 +26,57 @@ I am a final-year Bachelor of Computer Science (Information Systems) student at 
 
 ## 📂 Featured Projects
 
-### 🌐 [MyWebsite – Software Engineer Portfolio](https://github.com/husanboymurodov/MyWebsite)
+### 🌐 MyWebsite – Software Engineer Portfolio
+- **Repo:** https://github.com/husanboymurodov/MyWebsite  
+- **Live App:** https://boymurodov.com  
 
 A high-performance personal portfolio showcasing full-stack capabilities with a custom dark bluish theme and automated GCP Cloud Run deployment.
 
-- **Live App:** [boymurodov.com](https://boymurodov.com)
-- **Tech:** React 19, Vite, TypeScript, Docker, GCP.
+- **Tech:** React 19, Vite, TypeScript, Docker, GCP
 
 ---
 
-### 🏋️‍♂️ [FitHub – Full-Stack Fitness Tracker](https://github.com/husanboymurodov/FitHub)
+### 🏋️‍♂️ FitHub – Full-Stack Fitness Tracker
+- **Repo:** https://github.com/husanboymurodov/FitHub  
+- **Live App:** https://fithub-app-745483922277.asia-southeast1.run.app  
 
 A comprehensive wellness platform with dynamic Chart.js visualizations, secure authentication, and real-time meal discovery.
 
-- **Live App:** [fithub-app-745483922277.asia-southeast1.run.app](https://fithub-app-745483922277.asia-southeast1.run.app/)
-- **Tech:** Node.js, Express, MongoDB, Docker, GCP.
+- **Tech:** Node.js, Express, MongoDB, Docker, GCP
 
 ---
 
-### 🚚 [OrderSmart – ML Delivery Predictor](https://husanboymurodov-delivery-predictor.hf.space/)
+### 🚚 OrderSmart – ML Delivery Predictor
+- **Live App (HF Space):** https://husanboymurodov-delivery-predictor.hf.space  
+- **Code (HF Repo):** https://huggingface.co/spaces/husanboymurodov/delivery-predictor/tree/main  
 
 An AI-powered dashboard forecasting food delivery timing using Gradient Boosted Decision Trees (XGBoost).
 
-- **Show Code:** [Hugging Face Space](https://huggingface.co/spaces/husanboymurodov/delivery-predictor/tree/main)
-- **Tech:** Python, XGBoost, Gradio, Pandas, Hugging Face.
+- **Tech:** Python, XGBoost, Gradio, Pandas, Hugging Face
 
 ---
 
-### 📊 [Customer Churn Prediction](https://husanboymurodov-customer-churn-predictor.hf.space/)
+### 📊 Customer Churn Prediction
+- **Live App (HF Space):** https://husanboymurodov-customer-churn-predictor.hf.space  
+- **Code (HF Repo):** https://huggingface.co/spaces/husanboymurodov/customer-churn-predictor/tree/main  
 
 A machine learning classification model designed to identify at-risk telecom customers and support retention analysis.
 
-- **Show Code:** [Hugging Face Space](https://huggingface.co/spaces/husanboymurodov/customer-churn-predictor/tree/main)
-- **Tech:** Python, Scikit-learn, XGBoost, Hugging Face.
+- **Tech:** Python, Scikit-learn, XGBoost, Hugging Face
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Gold Medalist (Taekwondo):** 1st Place, 2025 MIQ Championship Sparring (Lightweight).
-- 🎓 **Course Coordinator:** Led and coordinated multiple academic courses at Universiti Malaya, mentoring 50+ peers.
-- 🏎 **Data Science Digital Race:** Competed in end-to-end ML model development and performance optimization.
+- 🥇 **Gold Medalist (Taekwondo):** 1st Place, 2025 MIQ Championship Sparring (Lightweight)
+- 🎓 **Course Coordinator:** Led and coordinated multiple academic courses at Universiti Malaya, mentoring 50+ peers
+- 🏎 **Data Science Digital Race:** Competed in end-to-end ML model development and performance optimization
 
 ---
 
 ## 📫 Connect with Me
 
-- **Portfolio:** [boymurodov.com](https://boymurodov.com)
-- **LinkedIn:** [linkedin.com/in/husanboymurodov](https://www.linkedin.com/in/husanboymurodov/)
-- **Hugging Face:** [huggingface.co/husanboymurodov](https://huggingface.co/husanboymurodov)
-- **Email:** [husayin2003@gmail.com](mailto:husayin2003@gmail.com)
+- **Portfolio:** https://boymurodov.com  
+- **LinkedIn:** https://www.linkedin.com/in/husanboymurodov/  
+- **Hugging Face:** https://huggingface.co/husanboymurodov  
+- **Email:** mailto:husayin2003@gmail.com
