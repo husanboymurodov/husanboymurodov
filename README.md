@@ -66,14 +66,6 @@ A machine learning classification model designed to identify at-risk telecom cus
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Gold Medalist (Taekwondo):** 1st Place, 2025 MIQ Championship Sparring (Lightweight)
-- 🎓 **Course Coordinator:** Led and coordinated multiple academic courses at Universiti Malaya, mentoring 50+ peers
-- 🏎 **Data Science Digital Race:** Competed in end-to-end ML model development and performance optimization
-
----
-
 ## 📫 Connect with Me
 
 - **Portfolio:** https://boymurodov.com  
