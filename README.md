@@ -49,7 +49,3 @@ A classification model developed to identify at-risk telecom customers.
 - **LinkedIn:** [linkedin.com/in/husanboymurodov](https://www.linkedin.com/in/husanboymurodov/)
 - **Email:** [husayin2003@gmail.com](mailto:husayin2003@gmail.com)
 - **Portfolio:** [husanboymurodov.github.io/MyWebsite](https://husanboymurodov.github.io/MyWebsite)
-
----
-
-*“I am always looking for opportunities to learn and collaborate. Available for internships from May 2026.”*
