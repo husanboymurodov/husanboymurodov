@@ -17,11 +17,10 @@ I am a final-year Bachelor of Computer Science (Information Systems) student at 
 
 ## 🌟 Core Strengths (Soft Skills)
 
-- **Leadership:** Coordinating academic courses and mentoring peer groups.
+- **Leadership:** Coordinating academic courses and mentoring 50+ peers.
 - **Project Management:** Planning and executing end-to-end software solutions.
 - **Communications:** Public Speaking and Technical Mentoring.
 - **Problem Solving:** Analyzing complex systems and optimizing backend logic.
-- **Collaboration:** Collaborative teamwork in production environments.
 
 ---
 
@@ -51,6 +50,15 @@ An AI-powered dashboard forecasting food delivery timing using Gradient Boosted 
 
 - **Show Code:** [Hugging Face Space](https://huggingface.co/spaces/husanboymurodov/delivery-predictor/tree/main)
 - **Tech:** Python, XGBoost, Gradio, Pandas, Hugging Face.
+
+---
+
+### 📊 [Customer Churn Prediction](https://husanboymurodov-customer-churn-predictor.hf.space/)
+
+A machine learning classification model designed to identify at-risk telecom customers and support retention analysis.
+
+- **Show Code:** [Hugging Face Space](https://huggingface.co/spaces/husanboymurodov/customer-churn-predictor/tree/main)
+- **Tech:** Python, Scikit-learn, XGBoost, Hugging Face.
 
 ---
 
