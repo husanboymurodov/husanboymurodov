@@ -53,9 +53,3 @@ Dashboard forecasting food delivery timing with XGBoost.
 
 Classification model identifying at-risk telecom customers.  
 **Stack:** Python, Scikit-learn, XGBoost, Hugging Face
-
----
-
-## Contact
-
-[Portfolio](https://boymurodov.com) · [LinkedIn](https://www.linkedin.com/in/husanboymurodov/) · [Hugging Face](https://huggingface.co/husanboymurodov) · husayin2003@gmail.com
