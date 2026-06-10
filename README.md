@@ -4,16 +4,6 @@ Final-year CS (Information Systems) student at University of Malaya. Building ba
 
 ---
 
-## Skills
-
-**Languages:** JavaScript, TypeScript, Python, SQL  
-**Frameworks:** Next.js, React, Node.js, Express.js  
-**Cloud & DevOps:** GCP, Docker, CI/CD, Git  
-**Databases:** Supabase, MongoDB  
-**ML:** XGBoost, Scikit-learn, Hugging Face
-
----
-
 ## Projects
 
 ### MyWebsite – Portfolio
