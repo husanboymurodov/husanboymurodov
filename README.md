@@ -1,4 +1,4 @@
-# Husan Boymurodov
+## About
 
 Final-year CS (Information Systems) student at University of Malaya. Building backend systems, full-stack apps, and browser extensions.
 
