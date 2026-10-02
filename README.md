@@ -4,6 +4,18 @@ Final-year CS (Information Systems) student at University of Malaya. Building ba
 
 ## Projects
 
+### AI Sales DR – Lead Generation
+[Live](https://ai-sales-dr-frontend-745483922277.asia-southeast1.run.app)
+
+AI-powered lead generation app that turns inbound interest into qualified, booked meetings.  
+**Stack:** Next.js, Supabase, Groq, Docker, GCP
+
+### KadiArch – Pumpkin Peeling Simulator
+[GitHub](https://github.com/husanboymurodov/kadi-peeler) · [Live](https://kadi-peeler-745483922277.asia-southeast1.run.app)
+
+Interactive browser sim with canvas-based peeling and real-time synthesized sound effects.  
+**Stack:** JavaScript, Canvas API, Web Audio API, Docker, GCP
+
 ### MyWebsite – Portfolio
 [GitHub](https://github.com/husanboymurodov/MyWebsite) · [Live](https://boymurodov.com)
 
